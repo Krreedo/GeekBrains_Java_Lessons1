@@ -2,8 +2,6 @@ package ru.geekbrains.Java_1;
 
 import java.util.Random;
 
-
-
 public class HW5 {
 
     public static void main(String[] args) {
