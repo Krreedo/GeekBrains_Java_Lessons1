@@ -17,7 +17,6 @@ public abstract class Animals {
         this.jumpRestrict = jumpRestrict;
         this.swimRestrict = swimRestrict;
     }
-
     abstract void jump (float jumpHeight);
     abstract void run (int runDistance);
     abstract void swim(int swimDistance);

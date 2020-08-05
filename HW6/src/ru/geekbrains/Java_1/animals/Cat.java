@@ -18,7 +18,6 @@ public class Cat extends Animals {
         } else {
             System.out.printf("Упс, %s недопрыгнул! %n", name);
         }
-
     }
     @Override
     public void run (int runDistance){
