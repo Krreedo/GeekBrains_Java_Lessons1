@@ -15,10 +15,14 @@ public class Plate {
         food -= amount;
     }
 
+    public void setFood(int food) {
+        this.food = food;
+        System.out.println("Человек добавил в миску еды");
+    }
+
     @Override
     public String toString() {
-        return "Plate{" +
-                "food=" + food +
-                '}';
+        return food +
+                " еды.";
     }
 }
