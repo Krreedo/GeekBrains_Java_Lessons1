@@ -1,5 +1,4 @@
 package ru.geekbrains.Java_1.animals;
-
 public class Dog extends Animals{
     int commandsCount;
 

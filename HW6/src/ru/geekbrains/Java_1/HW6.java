@@ -17,6 +17,5 @@ public class HW6 {
         dog1.run(500);
         dog2.run(1000);
         dog2.swim(10);
-
     }
 }
